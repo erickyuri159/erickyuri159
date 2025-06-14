@@ -1,5 +1,6 @@
 ### Hi there 👋
-usei um codigo de jogo para complementar
+criador de jogos por hobbie e progamador por amor 
+https://www.canva.com/design/DAGIB3rGnKk/cdWRNQ2eyoVKRuvzl2soxg/edit?utm_content=DAGIB3rGnKk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <!--
 **erickyuri159/erickyuri159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
